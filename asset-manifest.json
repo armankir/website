@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.192a34b8.chunk.css",
-    "main.js": "/static/js/main.d817e2ac.chunk.js",
-    "main.js.map": "/static/js/main.d817e2ac.chunk.js.map",
+    "main.js": "/static/js/main.b66762dc.chunk.js",
+    "main.js.map": "/static/js/main.b66762dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8b406ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.c8b406ee.js.map",
     "static/js/2.58eb5443.chunk.js": "/static/js/2.58eb5443.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.58eb5443.chunk.js.LICENSE.txt": "/static/js/2.58eb5443.chunk.js.LICENSE.txt",
     "static/media/FBW-Logo-WHITE.46642bea.svg": "/static/media/FBW-Logo-WHITE.46642bea.svg",
     "static/media/index.css": "/static/media/NunitoSans-SemiBold.662b8665.ttf",
-    "static/media/feature.0312884f.png": "/static/media/feature.0312884f.png",
+    "static/media/feature.c28f117b.jpg": "/static/media/feature.c28f117b.jpg",
     "static/media/flightsimto.15a3d435.png": "/static/media/flightsimto.15a3d435.png",
     "static/media/fsnews.8f8b550c.png": "/static/media/fsnews.8f8b550c.png",
     "static/media/s4f.8022961f.png": "/static/media/s4f.8022961f.png",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.c8b406ee.js",
     "static/js/2.58eb5443.chunk.js",
     "static/css/main.192a34b8.chunk.css",
-    "static/js/main.d817e2ac.chunk.js"
+    "static/js/main.b66762dc.chunk.js"
   ]
 }
