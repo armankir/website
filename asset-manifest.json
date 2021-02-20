@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.192a34b8.chunk.css",
-    "main.js": "/static/js/main.9d556e05.chunk.js",
-    "main.js.map": "/static/js/main.9d556e05.chunk.js.map",
+    "main.css": "/static/css/main.9e3ce419.chunk.css",
+    "main.js": "/static/js/main.9dbfe4fa.chunk.js",
+    "main.js.map": "/static/js/main.9dbfe4fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8b406ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.c8b406ee.js.map",
-    "static/js/2.8e4bf38e.chunk.js": "/static/js/2.8e4bf38e.chunk.js",
-    "static/js/2.8e4bf38e.chunk.js.map": "/static/js/2.8e4bf38e.chunk.js.map",
+    "static/js/2.ee28feb2.chunk.js": "/static/js/2.ee28feb2.chunk.js",
+    "static/js/2.ee28feb2.chunk.js.map": "/static/js/2.ee28feb2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.192a34b8.chunk.css.map": "/static/css/main.192a34b8.chunk.css.map",
-    "static/js/2.8e4bf38e.chunk.js.LICENSE.txt": "/static/js/2.8e4bf38e.chunk.js.LICENSE.txt",
-    "static/media/FBW-Logo-WHITE.46642bea.svg": "/static/media/FBW-Logo-WHITE.46642bea.svg",
+    "static/css/main.9e3ce419.chunk.css.map": "/static/css/main.9e3ce419.chunk.css.map",
+    "static/js/2.ee28feb2.chunk.js.LICENSE.txt": "/static/js/2.ee28feb2.chunk.js.LICENSE.txt",
+    "static/media/A32NX.27d64073.mp4": "/static/media/A32NX.27d64073.mp4",
+    "static/media/FBW-Logo-WHITE.880b7446.svg": "/static/media/FBW-Logo-WHITE.880b7446.svg",
     "static/media/index.css": "/static/media/NunitoSans-SemiBold.662b8665.ttf",
-    "static/media/feature.c28f117b.jpg": "/static/media/feature.c28f117b.jpg",
+    "static/media/discord.137dd396.jpg": "/static/media/discord.137dd396.jpg",
+    "static/media/donate.0f568da5.jpg": "/static/media/donate.0f568da5.jpg",
+    "static/media/feature.d97a7dfa.jpg": "/static/media/feature.d97a7dfa.jpg",
     "static/media/flightsimto.15a3d435.png": "/static/media/flightsimto.15a3d435.png",
     "static/media/fsnews.8f8b550c.png": "/static/media/fsnews.8f8b550c.png",
     "static/media/s4f.8022961f.png": "/static/media/s4f.8022961f.png",
@@ -21,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c8b406ee.js",
-    "static/js/2.8e4bf38e.chunk.js",
-    "static/css/main.192a34b8.chunk.css",
-    "static/js/main.9d556e05.chunk.js"
+    "static/js/2.ee28feb2.chunk.js",
+    "static/css/main.9e3ce419.chunk.css",
+    "static/js/main.9dbfe4fa.chunk.js"
   ]
 }
